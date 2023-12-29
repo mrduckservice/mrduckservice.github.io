@@ -1,2 +1,1 @@
 # mrduckservice.github.io
-# SOON
